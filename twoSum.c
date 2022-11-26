@@ -20,5 +20,6 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     printf("%d,%d",i,j);
     element[0]=i;
     element[1]=j;
+    // dsfsdf
     return element;
 }
